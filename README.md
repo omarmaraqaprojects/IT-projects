@@ -1,1 +1,1 @@
-I'm trying to bild the best IT homelab resourse in the world
+I'm trying to build the best IT homelab resourse in the world
